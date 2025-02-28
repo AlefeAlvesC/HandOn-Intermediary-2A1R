@@ -103,10 +103,4 @@ Este projeto utiliza uma combinação de sensores, como NFC (RFID) e biometria (
 - `HTTPClient` - Biblioteca para realizar requisições HTTP.
 - `ArduinoJson` - Biblioteca para manipulação de dados JSON.
 
-## Licença
 
-Este projeto é licenciado sob a [MIT License](LICENSE). 
-
-## Autores
-
-Este projeto foi desenvolvido por [Seu Nome].
